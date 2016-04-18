@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   learning_crystal:
-    github: [your-github-name]/learning_crystal
+    github: orieken/learning_crystal
 ```
 
 
@@ -30,7 +30,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/learning_crystal/fork )
+1. Fork it ( https://github.com/orieken/learning_crystal/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -38,4 +38,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Oscar Rieken - creator, maintainer
+- [orieken](https://github.com/orieken) Oscar Rieken - creator, maintainer
